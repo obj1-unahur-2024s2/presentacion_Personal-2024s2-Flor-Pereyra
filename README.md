@@ -1,35 +1,10 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
-# Programación con objetos I
+# Florencia Pereyra
+Hola, me llamo Florencia y estoy en el segundo año de la carrera Tecnicatura Universitaria en Programación. Antes de esta carrera estuve estudiando veterinaria en la universidad de Buenos Aires. 
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+## Mis objetivos
+Me gustaría poder especializarme en la ciberseguridad y poder trabajar de eso al terminar la carrera. 
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
-
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
-
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+## Como llego a gustarme la programación
+Logre conocer personas que me mostraron cómo era programar y todo lo que tenía que ver con este tema. Gracias a estas personas me animé a estudiar programación por mi cuenta y luego de un tiempo postularme para un puesto de trabajo como programadora en la empresa META, en la cual me aceptaron y estuve un año trabajando. En ese tiempo me di cuenta que podía estar horas programando sin cansarme y que era eso a lo que quería dedicarme. Entonces tomé la decisión de inscribirme a la universidad de Hurlingam para empezar la carrera. 
